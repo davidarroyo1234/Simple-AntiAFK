@@ -1,6 +1,6 @@
 # Simple-AntiAFK
 
-[![Maintenance](https://img.shields.io/maintenance/yes/2022)](https://github.com/davidarroyo1234/Simple-AntiAFK)
+[![Maintenance](https://img.shields.io/maintenance/yes/2023)](https://github.com/davidarroyo1234/Simple-AntiAFK)
 ## Steps
 
 1. Clone the repo.
